@@ -3,3 +3,5 @@
 - Accordian (Single Select and Multi Select)
 
 - Random Color Generator (HEX and RGB)
+
+- Star Rating
