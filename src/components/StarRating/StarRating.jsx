@@ -9,6 +9,7 @@ const StarRating = ({ noOfStarts = 5 }) => {
     setRating(index);
   };
   const handelMouseEnter = (index) => {
+    console.log(index)
     setHover(index);
   };
   const handelMouseLeave = () => {
